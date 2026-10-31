@@ -1,4 +1,4 @@
-# Moses Orji · Full-Stack Engineer
+# AI · Full-Stack Engineer
 
 Real-world apps built with Python, AI & modern tools.
 
